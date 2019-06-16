@@ -1,5 +1,7 @@
 # bookstoreApp
 
+Project for COMP-5413-SC Spring 2019
+
 To run app on local machine:
 
 1. Clone the repository to your local machine.
